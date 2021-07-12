@@ -1,8 +1,12 @@
 <h1 align="center">
-Hi there 👋 </h1>
+OYOYOY</h1>
 <h3 align="center">It 's Pattaradanai Thanomsittikul.<br>
 (Poo-Kan)<br></h3>
-<p align="center">I am a student at Triamudomsuksa School.(Grade 11)</p><br>
+<p align="center">Nickname : Poo-Kan
+<br>Age : 16
+<br>Birthday : 11st August 2004
+<br>Nationality : Thai
+</p>
 <h3 align="center">Currently learning</h3>
 <div align="center">
   <img src="https://github.com/Takedaxz/Takedaxz/blob/main/C.png?raw=true" width="40px">
