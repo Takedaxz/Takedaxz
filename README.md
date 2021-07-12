@@ -1,10 +1,9 @@
 <h1 align="center">
 Hello everyone</h1>
 <h3 align="center">It 's Pattaradanai Thanomsittikul.<br>
-(Poo-Kan)
+(Poo-Kan)</h3>
 <br>
-<img src="https://github.com/Takedaxz/Takedax-Studio/blob/main/picsture/me.jpg?raw=true" width=40%">
-</h3>
+<img src="https://github.com/Takedaxz/Takedax-Studio/blob/main/picsture/me.jpg?raw=true" width="40%">
 <p align="center">Nickname : Poo-Kan
 <br>Age : 16
 <br>Birthday : 11st August 2004
