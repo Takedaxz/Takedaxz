@@ -14,10 +14,10 @@ Hi there 👋 </h1>
 </div>
 <h3 align="center">Contact
   <div>
-    <a href="http://gg.gg/v9bsu" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/ig.png?raw=true" style="width:30px;"></a>
-    <a href="http://gg.gg/v9bws" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/fb.png?raw=true" style="width:30px;"></a>
-    <a href="https://www.twitch.tv/takedax" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/twitch.png?raw=true" style="width:30px;"></a>
-    <a href="http://gg.gg/va3d3" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/yt.png?raw=true" style="width:30px;"></a>
+    <a href="http://gg.gg/v9bsu" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/ig.png?raw=true" width="30px"></a>
+    <a href="http://gg.gg/v9bws" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/fb.png?raw=true" width="30px"></a>
+    <a href="https://www.twitch.tv/takedax" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/twitch.png?raw=true" width="30px"></a>
+    <a href="http://gg.gg/va3d3" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/yt.png?raw=true" width="30px"></a>
   </div>
 </h3>
   
