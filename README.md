@@ -6,5 +6,5 @@ Hi there 👋 </h1>
 <br><h3 align="center">Currently learning</h3>
 <br>
 <div align="center">
-  <img src="https://github.com/Takedaxz/Takedaxz/blob/main/C.png?raw=true" width="25px">
+  <img src="https://github.com/Takedaxz/Takedaxz/blob/main/C.png?raw=true" width="40px">
   
