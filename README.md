@@ -9,7 +9,7 @@ Hi there 👋 </h1>
   <img src="https://github.com/Takedaxz/Takedaxz/blob/main/C.png?raw=true" width="40px">
   <img src="https://github.com/Takedaxz/Takedaxz/blob/main/CSS.png?raw=true" width="50px">
   <img src="https://github.com/Takedaxz/Takedaxz/blob/main/HTML.png?raw=true" width="50px">
-  <img src="https://github.com/Takedaxz/Takedaxz/blob/main/Python.png?raw=true" width="40px">
   <img src="https://github.com/Takedaxz/Takedaxz/blob/main/Javascript.png?raw=true" width="50px">
+  <img src="https://github.com/Takedaxz/Takedaxz/blob/main/Python.png?raw=true" width="40px">
 </div>
   
