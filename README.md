@@ -3,7 +3,7 @@ Hello everyone</h1>
 <h3 align="center">It 's Pattaradanai Thanomsittikul.<br>
 (Poo-Kan)</h3>
 <div align="center">
-  <img src="https://github.com/Takedaxz/Takedax-Studio/blob/main/picsture/me.jpg?raw=true" width="40%">
+  <img src="https://github.com/Takedaxz/Takedax-Studio/blob/main/picsture/me.jpg?raw=true" width="35%">
 </div><br>
 <p align="center">Nickname : Poo-Kan
 <br>Age : 16
