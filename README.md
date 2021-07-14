@@ -25,10 +25,11 @@ Hello everyone :laughing:</h1>
 <h3 align="center">Contact
   <div>
     <br>
-    <a href="http://gg.gg/v9bsu" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/ig.png?raw=true" width="30px"></a>
-    <a href="http://gg.gg/v9bws" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/fb.png?raw=true" width="30px"></a>
+    <a href="https://www.instagram.com/pookanlnwza5556789/" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/ig.png?raw=true" width="30px"></a>
+    <a href="https://www.facebook.com/takedax/?ref=pages_you_manage" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/fb.png?raw=true" width="30px"></a>
     <a href="https://www.twitch.tv/takedax" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/twitch.png?raw=true" width="30px"></a>
-    <a href="http://gg.gg/va3d3" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/yt.png?raw=true" width="30px"></a>
+    <a href="https://www.youtube.com/channel/UClBjuWiCA3urDYNJEjGP3cA" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/yt.png?raw=true" width="30px"></a>
+    <a href="https://discord.gg/f7GPePJfmS" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/discord.png?raw=true" width="30px"></a>
   </div>
 </h3>
   
