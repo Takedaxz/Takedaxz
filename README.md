@@ -29,7 +29,7 @@ Hello everyone :laughing:</h1>
     <a href="https://www.facebook.com/takedax/?ref=pages_you_manage" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/fb.png?raw=true" width="30px"></a>
     <a href="https://www.twitch.tv/takedax" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/twitch.png?raw=true" width="30px"></a>
     <a href="https://www.youtube.com/channel/UClBjuWiCA3urDYNJEjGP3cA" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/yt.png?raw=true" width="30px"></a>
-    <a href="https://discord.gg/f7GPePJfmS" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/discord.png?raw=true" width="30px"></a>
+    <a href="https://discord.gg/f7GPePJfmS" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/dis.png?raw=true" width="30px"></a>
   </div>
 </h3>
   
