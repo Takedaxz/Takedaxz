@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello everyone :laughing:</h1>
+Hello everyone <img src="https://github.com/Takedaxz/Takedaxz/blob/main/6mb.gif?raw=true" width="60px"></h1>
 <h3 align="center">It 's Pattaradanai Thanomsittikul.<br>
 (Poo-Kan)</h3>
 <div align="center">
