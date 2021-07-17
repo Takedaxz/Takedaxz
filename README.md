@@ -34,7 +34,7 @@ Hello everyone :laughing:</h1>
 </h3>
 
 <a align="center" href="https://github.com/Takedaxz/Takedaxz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takedaxz&hide=java,html,tex&title_color=2b3137&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takedaxz&hide=java,html,tex&title_color=1d202d&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a align="center" href="https://github.com/Takedaxz/Takedaxz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Takedaxz&show_icons=true&line_height=27&count_private=true&title_color=2b3137&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Takedax's GitHub Stats" />
