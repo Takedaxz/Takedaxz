@@ -29,14 +29,17 @@ Hello everyone :laughing:</h1>
     <a href="https://www.facebook.com/takedax/?ref=pages_you_manage" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/fb.png?raw=true" width="30px"></a>
     <a href="https://www.twitch.tv/takedax" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/twitch.png?raw=true" width="30px"></a>
     <a href="https://www.youtube.com/channel/UClBjuWiCA3urDYNJEjGP3cA" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/yt.png?raw=true" width="30px"></a>
+    
     <a href="https://discord.gg/f7GPePJfmS" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/dis.png?raw=true" width="30px"></a>
   </div>
 </h3>
-
-<a align="center" href="https://github.com/Takedaxz/Takedaxz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takedaxz&hide=java,html,tex&title_color=FFFFF&text_color=c9cacc&icon_color=2bbc8a&bg_color=2b3137&langs_count=4" />
-</a>
-<a align="center" href="https://github.com/Takedaxz/Takedaxz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Takedaxz&show_icons=true&line_height=33&count_private=true&title_color=FFFFF&text_color=c9cacc&icon_color=2bbc8a&bg_color=2b3137" alt="Takedax's GitHub Stats" />
-</a>
+<br>
+<center>
+  <a align="center" href="https://github.com/Takedaxz/Takedaxz">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?   username=Takedaxz&hide=java,html,tex&title_color=FFFFF&text_color=c9cacc&icon_color=2bbc8a&bg_color=2b3137&langs_count=4" />
+  </a>
+  <a align="center" href="https://github.com/Takedaxz/Takedaxz">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Takedaxz&show_icons=true&line_height=33&count_private=true&title_color=FFFFF&text_color=c9cacc&icon_color=2bbc8a&bg_color=2b3137" alt="Takedax's GitHub Stats" />
+  </a>
+</center>
   
