@@ -2,9 +2,6 @@
 Hello everyone <img src="https://github.com/Takedaxz/Takedaxz/blob/main/6mb.gif?raw=true" width="60px"></h1>
 <h3 align="center">It 's Pattaradanai Thanomsittikul.<br>
 (Poo-Kan)</h3>
-<div align="center">
-  <img src="https://github.com/Takedaxz/Takedax-Studio/blob/main/picsture/me.jpg?raw=true" width="35%">
-</div><br>
 <p align="center">Nickname : Poo-Kan
 <br>Age : 16
 <br>Birthday : 11st August 2004
