@@ -3,14 +3,14 @@ Hello everyone <img src="https://github.com/Takedaxz/Takedaxz/blob/main/6mb.gif?
 <h3 align="center">It 's Pattaradanai Thanomsittikul.<br>
 (Poo-Kan)</h3>
 <p align="center">Nickname : Poo-Kan
-<br>Age : 16
+<br>Age : 18
 <br>Birthday : 11st August 2004
 <br>Nationality : Thai
 </p>
 <h3 align="center">Education</h3>
 <p align="center">Grade 1-6 Anuban Rayong School
 <br>Grade 7-9 Rayongwittayakom School
-<br>Grade 10-11 Triam Udom Suksa School (Current)</p>
+<br>Grade 10-12 Triam Udom Suksa School (Current)</p>
 <h3 align="center">Currently learning</h3>
 <div align="center">
   <img src="https://github.com/Takedaxz/Takedaxz/blob/main/C.png?raw=true" width="40px">
