@@ -15,16 +15,18 @@ Hello everyone <img src="https://github.com/Takedaxz/Takedaxz/blob/main/6mb.gif?
 <h3 align="center">Currently learning</h3>
 <div align="center">
   <img src="https://github.com/Takedaxz/Takedaxz/blob/main/C.png?raw=true" width="40px">
+  <img src="https://github.com/Takedaxz/Takedaxz/blob/main/c++.png?raw=true" width="40px">
   <img src="https://github.com/Takedaxz/Takedaxz/blob/main/CSS.png?raw=true" width="50px">
   <img src="https://github.com/Takedaxz/Takedaxz/blob/main/HTML.png?raw=true" width="50px">
   <img src="https://github.com/Takedaxz/Takedaxz/blob/main/Javascript.png?raw=true" width="50px">
   <img src="https://github.com/Takedaxz/Takedaxz/blob/main/Python.png?raw=true" width="40px">
 </div>
 <h3 align="center">Contact
+
   <div>
     <br>
     <a href="https://www.instagram.com/pookanlnwza/" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/ig.png?raw=true" width="30px"></a>
-    <a href="https://www.facebook.com/takedax/?ref=pages_you_manage" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/fb.png?raw=true" width="30px"></a>
+    <a href="https://www.facebook.com/pkpt.pookan/" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/fb.png?raw=true" width="30px"></a>
     <a href="https://www.twitch.tv/takedax" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/twitch.png?raw=true" width="30px"></a>
     <a href="https://www.youtube.com/channel/UClBjuWiCA3urDYNJEjGP3cA" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/yt.png?raw=true" width="30px">       </a>
     <a href="https://discord.gg/f7GPePJfmS" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/dis.png?raw=true" width="30px"></a>
