@@ -19,7 +19,7 @@ Hello everyone <img src="https://github.com/Takedaxz/Takedaxz/blob/main/6mb.gif?
   <img src="https://github.com/Takedaxz/Takedaxz/blob/main/HTML.png?raw=true" width="50px">
   <img src="https://github.com/Takedaxz/Takedaxz/blob/main/Javascript.png?raw=true" width="50px">
   <img src="https://github.com/Takedaxz/Takedaxz/blob/main/Python.png?raw=true" width="40px">
-  <img src="https://github.com/Takedaxz/Takedaxz/blob/main/java.png?raw=true" width="40px">
+  <img src="https://github.com/Takedaxz/Takedaxz/blob/main/java.png?raw=true" width="50px">
 </div>
 <h3 align="center">Contact
 
