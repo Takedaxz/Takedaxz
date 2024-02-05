@@ -35,7 +35,7 @@ Hello everyone <img src="https://github.com/Takedaxz/Takedaxz/blob/main/6mb.gif?
 <br>
 <div align="center">
   <a align="center" href="https://github.com/Takedaxz/Takedaxz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takedaxz&hide=java,html,tex&title_color=ffffff&text_color=eef1f3&icon_color=2bbc8a&bg_color=2b3137&langs_count=4" /></a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takedaxz&hide=java,html,tex&title_color=ffffff&text_color=eef1f3&icon_color=2bbc8a&bg_color=2b3137&langs_count=6" /></a>
   <a align="center" href="https://github.com/Takedaxz/Takedaxz">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Takedaxz&show_icons=true&line_height=33&count_private=true&title_color=fffff&text_color=eef1f3&icon_color=2bbc8a&bg_color=2b3137" alt="Takedax's GitHub Stats"></a>
 </div>
