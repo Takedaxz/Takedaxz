@@ -1,33 +1,47 @@
-<h1 align="center">
-Hello everyone <img src="https://github.com/Takedaxz/Takedaxz/blob/main/6mb.gif?raw=true" width="60px"></h1>
-<h3 align="center">It 's Pattaradanai Thanomsittikul.<br>
-(Poo-Kan)</h3>
-<p align="center">Nickname : Poo-Kan
-<br>Age : 19
-<br>Birthday : 11st August 2004
-<br>Nationality : Thai
-</p>
-<h3 align="center">Education</h3>
-<p align="center">Grade 1-6 Anuban Rayong School
-<br>Grade 7-9 Rayongwittayakom School
-<br>Grade 10-12 Triam Udom Suksa School 
-<br>Bachelor's Degree Chulalongkorn University </p>
-<h3 align="center">Contact
+Hi 👋 My name is Poo-Kan
+========================
 
-  <div>
-    <br>
-    <a href="https://www.instagram.com/pookanlnwza/" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/ig.png?raw=true" width="30px"></a>
-    <a href="https://www.facebook.com/pkpt.pookan/" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/fb.png?raw=true" width="30px"></a>
-    <a href="https://www.twitch.tv/takedax" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/twitch.png?raw=true" width="30px"></a>
-    <a href="https://www.youtube.com/channel/UClBjuWiCA3urDYNJEjGP3cA" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/yt.png?raw=true" width="30px">       </a>
-    <a href="https://discord.gg/f7GPePJfmS" target="_blank"><img src="https://github.com/Takedaxz/Takedaxz/blob/main/dis.png?raw=true" width="30px"></a>
-  </div>
-</h3>
-<br>
-<div align="center">
-  <a align="center" href="https://github.com/Takedaxz/Takedaxz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takedaxz&hide=java,html,tex&title_color=ffffff&text_color=eef1f3&icon_color=2bbc8a&bg_color=2b3137&langs_count=6" /></a>
-  <a align="center" href="https://github.com/Takedaxz/Takedaxz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Takedaxz&show_icons=true&line_height=33&count_private=true&title_color=fffff&text_color=eef1f3&icon_color=2bbc8a&bg_color=2b3137" alt="Takedax's GitHub Stats"></a>
-</div>
-  
+It's me Pattradanai Thanomsittikul. I'm 19 years old.
+
+*   🌍  I'm based in Bangkok, Thailand
+*   ✉️  You can contact me at [datas.pookan@gmail.com](mailto:datas.pookan@gmail.com)<a href="https://www.github.com/takedaxz" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/takedaxz?logo=github&style=for-the-badge&color=000000&labelColor=ffffff" /></a>### Skills 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://discord.com/users/lnwtkdx" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.github.com/takedaxz" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="http://www.instagram.com/pookanlnwza" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.twitch.tv/takedax" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/takedaxz"><img src="https://github-readme-stats.vercel.app/api?username=takedaxz&show_icons=true&hide=&title_color=ef4444&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="takedaxz's GitHub stats" /></a><a
+                      href="http://www.github.com/takedaxz"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=takedaxz&stroke=000000&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=000000&currStreakLabel=ef4444&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
