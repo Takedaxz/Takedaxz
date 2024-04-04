@@ -4,8 +4,8 @@ It's me Pattradanai Thanomsittikul. I'm 19 years old.
 
 <p align="left">
 - 🌍 I'm based in Bangkok, Thailand.<br>
-- 📚 I'm currently learning data analyst.<br>
-- ⚡ In my free time I watch movies and exercise.
+- 📚 I'm currently studying at Chulalongkorn Univeristy.<br>
+- ⚡ In my free time I watch movies and do exercise.
 
 </p>
 
@@ -21,7 +21,7 @@ It's me Pattradanai Thanomsittikul. I'm 19 years old.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"  alt="cplusplus logo"  />
 </div>
                     
 ### Socials
