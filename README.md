@@ -3,7 +3,9 @@
 It's me Pattradanai Thanomsittikul. I'm 19 years old.
 
 - 🌍  I'm based in Bangkok, Thailand
-- ✉️  You can contact me at [datas.pookan@gmail.com](mailto:datas.pookan@gmail.com)<a href="https://www.github.com/takedaxz" target="_blank" rel="noreferrer"><img
+- ✉️  You can contact me at [datas.pookan@gmail.com](mailto:datas.pookan@gmail.com)
+
+<a href="https://www.github.com/takedaxz" target="_blank" rel="noreferrer"><img
                 src="https://img.shields.io/github/followers/takedaxz?logo=github&style=for-the-badge&color=000000&labelColor=ffffff" /></a>
 
 ### Skills
@@ -43,7 +45,4 @@ It's me Pattradanai Thanomsittikul. I'm 19 years old.
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
                     </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/takedaxz"><img src="https://github-readme-stats.vercel.app/api?username=takedaxz&show_icons=true&hide=&title_color=ef4444&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="takedaxz's GitHub stats" /></a><a
-                      href="http://www.github.com/takedaxz"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=takedaxz&stroke=000000&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=000000&currStreakLabel=ef4444&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+                    </a>
