@@ -1,6 +1,6 @@
-# Hello there!! My name is Poo-Kan
+# Hello there!! It's me is Poo-Kan
 
-It's me Pattaradanai Thanomsittikul. I'm 19 years old.
+My name is Pattaradanai Thanomsittikul. I'm 19 years old.
 
 <p align="left">
 -  I'm based in Bangkok, Thailand.<br>
