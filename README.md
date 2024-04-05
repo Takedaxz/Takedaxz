@@ -45,4 +45,3 @@ It's me Pattradanai Thanomsittikul. I'm 19 years old.
   </a>
 </div>
 
-
