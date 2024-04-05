@@ -1,4 +1,4 @@
-# Hello there!! It's me is Poo-Kan
+# Hello there!! It's me Poo-Kan
 
 My name is Pattaradanai Thanomsittikul. I'm 19 years old.
 
