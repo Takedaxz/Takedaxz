@@ -4,7 +4,7 @@ My name is Pattaradanai Thanomsittikul. I'm 19 years old.
 
 <p align="left">
 -  I'm based in Bangkok, Thailand.<br>
--  I'm currently studying at Chulalongkorn Univeristy.<br>
+-  I study at Chulalongkorn Univeristy.<br>
 -  In my free time I watch movies and do exercise.
 
 </p>
