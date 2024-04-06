@@ -43,5 +43,8 @@ My name is Pattaradanai Thanomsittikul. I'm 19 years old.
   <a href="https://www.facebook.com/pkpt.pookan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
+  <a href="https://discord.gg/eHWRAE4dvw" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="25" alt="discord logo"  />
+  </a>
 </div>
 
