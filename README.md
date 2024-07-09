@@ -3,8 +3,7 @@
 My name is Pattaradanai Thanomsittikul. I'm 19 years old.
 
 <p align="left">
--  I'm based in Bangkok, Thailand.<br>
--  I study at Chulalongkorn Univeristy.<br>
+-  Bangkok, Thailand.<br>
 
 </p>
 
